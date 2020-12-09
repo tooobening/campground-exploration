@@ -1,0 +1,2545 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.860721,32.179756 ]
+    },
+    "properties": {
+    "name":"Agave Gulch FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.82373,32.77805 ]
+    },
+    "properties": {
+    "name":"Lake Martin Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.37,32.3705 ]
+    },
+    "properties": {
+    "name":"Maxwell/Gunter AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6836,34.588291 ]
+    },
+    "properties": {
+    "name":"Easter Posey MWR Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.71611,31.40861 ]
+    },
+    "properties": {
+    "name":"Engineer Beach RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.6506,64.3195 ]
+    },
+    "properties": {
+    "name":"Birch Lake Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.71942,61.26021 ]
+    },
+    "properties": {
+    "name":"Black Spruce RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.11565,64.703053 ]
+    },
+    "properties": {
+    "name":"Eielson AFB Bear Lake FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.7517,61.2383 ]
+    },
+    "properties": {
+    "name":"Elmendorf AFB Famcamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.691494,64.833756 ]
+    },
+    "properties": {
+    "name":"Glass Park RV Park & Outdoor Adventure"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.507953,57.760168 ]
+    },
+    "properties": {
+    "name":"ISC Kodiak MWR Nemetz RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.43185,60.132349 ]
+    },
+    "properties": {
+    "name":"Seward Resort"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.43316,60.130136 ]
+    },
+    "properties": {
+    "name":"Seward Air Force Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.3656,31.56031 ]
+    },
+    "properties": {
+    "name":"Apache Flats RV Resort"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.444892,32.863434 ]
+    },
+    "properties": {
+    "name":"Desert Breeze Travel Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.307079,31.55358 ]
+    },
+    "properties": {
+    "name":"Fort Huachuca Remote Camping"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.69326,35.139329 ]
+    },
+    "properties": {
+    "name":"Fort Tuthill Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.72985,32.88196 ]
+    },
+    "properties": {
+    "name":"Gila Bend FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.47627,32.986346 ]
+    },
+    "properties": {
+    "name":"Lake Martinez Recreation Facility"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.2936,35.2977 ]
+    },
+    "properties": {
+    "name":"Fort Chaffee RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1625,34.89893 ]
+    },
+    "properties": {
+    "name":"Little Rock AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.05802,34.327 ]
+    },
+    "properties": {
+    "name":"Pine Bluff Arsenal Campsites"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.10331,32.79241 ]
+    },
+    "properties": {
+    "name":"Admiral Baker RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.958863,34.874782 ]
+    },
+    "properties": {
+    "name":"Desert Rat RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3845,39.1302 ]
+    },
+    "properties": {
+    "name":"Beale AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.879,34.2348 ]
+    },
+    "properties": {
+    "name":"Big Bear Recreation Facility"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.7193,35.7774 ]
+    },
+    "properties": {
+    "name":"Camp Roberts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.22137,34.16175 ]
+    },
+    "properties": {
+    "name":"Channel Islands Coast Guard Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.405385,33.221026 ]
+    },
+    "properties": {
+    "name":"Del Mar Beach Cottages and Campsites"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.9251,34.9178 ]
+    },
+    "properties": {
+    "name":"Edwards AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.68015,32.81768 ]
+    },
+    "properties": {
+    "name":"Palm Oasis RV Park and Resort"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2067,34.1732 ]
+    },
+    "properties": {
+    "name":"Fairways RV Resort"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.15,32.6512 ]
+    },
+    "properties": {
+    "name":"Fiddler's Cove RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.185983,35.941295 ]
+    },
+    "properties": {
+    "name":"Fort Hunter Liggett Primitive Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.324,33.332459 ]
+    },
+    "properties": {
+    "name":"Lake O'Neill Recreation Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.898572,36.261943 ]
+    },
+    "properties": {
+    "name":"Lemoore RV Park and Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.05032,33.79638 ]
+    },
+    "properties": {
+    "name":"Los Alamitos Army Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.25,33.8934 ]
+    },
+    "properties": {
+    "name":"March ARB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.86127,36.5903 ]
+    },
+    "properties": {
+    "name":"Monterey Pines RV Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.78319,38.24724 ]
+    },
+    "properties": {
+    "name":"Petaluma Lake Area Campsites"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.10425,34.09983 ]
+    },
+    "properties": {
+    "name":"Point Mugu Recreation Facilities"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.5721,33.37978 ]
+    },
+    "properties": {
+    "name":"San Onofre Recreation Beach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.737723,35.323392 ]
+    },
+    "properties": {
+    "name":"Camp San Luis Obispo RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.0846,33.7499 ]
+    },
+    "properties": {
+    "name":"Seabreeze at Seal Beach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.269259,37.85426 ]
+    },
+    "properties": {
+    "name":"Sharpe RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9535,38.27146 ]
+    },
+    "properties": {
+    "name":"Travis AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.0505,34.20568 ]
+    },
+    "properties": {
+    "name":"Twilight Dunes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.552,34.7208 ]
+    },
+    "properties": {
+    "name":"Vandenberg AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.99357,39.01007 ]
+    },
+    "properties": {
+    "name":"Farish Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.840179,39.00639 ]
+    },
+    "properties": {
+    "name":"Peregrine Pines FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.8824,38.6089 ]
+    },
+    "properties": {
+    "name":"Turkey Creek Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.06237,38.54702 ]
+    },
+    "properties": {
+    "name":"Bethany Beach Training Site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4574,39.1138 ]
+    },
+    "properties": {
+    "name":"Dover AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.424783,30.381755 ]
+    },
+    "properties": {
+    "name":"Blue Angel Naval Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.988963,29.953617 ]
+    },
+    "properties": {
+    "name":"James E. Johnson Memorial RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.48659,27.826944 ]
+    },
+    "properties": {
+    "name":"Raccoon Creek Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4986,30.4107 ]
+    },
+    "properties": {
+    "name":"Destin Army Infantry Center Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.5299,30.45955 ]
+    },
+    "properties": {
+    "name":"Eglin AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6973,30.4086 ]
+    },
+    "properties": {
+    "name":"Hurlburt Field FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6821,30.22 ]
+    },
+    "properties": {
+    "name":"Jacksonville RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.61533,28.238 ]
+    },
+    "properties": {
+    "name":"Manatee Cove Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.106,24.7102 ]
+    },
+    "properties": {
+    "name":"Marathon Cottages and RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.418,30.45455 ]
+    },
+    "properties": {
+    "name":"Mid Bay Shores Maxwell/Gunter Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.314162,30.342755 ]
+    },
+    "properties": {
+    "name":"Oak Grove Park and Cottages"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.753944,30.18214 ]
+    },
+    "properties": {
+    "name":"Panama City CSS Family Campground and Marina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4005,30.39443 ]
+    },
+    "properties": {
+    "name":"Pelican Roost RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.76779,24.58433 ]
+    },
+    "properties": {
+    "name":"NASKW Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.613,30.094957 ]
+    },
+    "properties": {
+    "name":"Raptor Ranch at Tyndall AFB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.52218,33.922347 ]
+    },
+    "properties": {
+    "name":"Dobbins Lakeside Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5496,30.77178 ]
+    },
+    "properties": {
+    "name":"Eagle Hammock RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.315137,33.689201 ]
+    },
+    "properties": {
+    "name":"Pointes West Army Resort"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.239,30.657252 ]
+    },
+    "properties": {
+    "name":"Grassy Pond Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.55573,31.91175 ]
+    },
+    "properties": {
+    "name":"Holbrook Pond Recreation Area and Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.17849,31.9846 ]
+    },
+    "properties": {
+    "name":"Lotts Island Army Airfield RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.034,31.553 ]
+    },
+    "properties": {
+    "name":"MCLB Albany RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5666,32.592679 ]
+    },
+    "properties": {
+    "name":"Robins AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9582,32.305 ]
+    },
+    "properties": {
+    "name":"Uchee Creek Campground/Marina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.72137,34.09153 ]
+    },
+    "properties": {
+    "name":"Navy Lake Site at Allatoona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7078,21.3524 ]
+    },
+    "properties": {
+    "name":"Bellows Recreation Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.755718,21.452395 ]
+    },
+    "properties": {
+    "name":"Kaneohe Bay Beach Cottages and Campsites"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.236,43.561073 ]
+    },
+    "properties": {
+    "name":"Gowen Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.8639,43.06061 ]
+    },
+    "properties": {
+    "name":"Mountain Home AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.96905,42.95425 ]
+    },
+    "properties": {
+    "name":"Strike Dam Marina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.831409,42.320816 ]
+    },
+    "properties": {
+    "name":"Great Lakes Naval Training Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.84078,38.55097 ]
+    },
+    "properties": {
+    "name":"Scott AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.026858,39.354805 ]
+    },
+    "properties": {
+    "name":"Whitaker Place Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.821477,38.877081 ]
+    },
+    "properties": {
+    "name":"Crane Lake Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.251179,37.622247 ]
+    },
+    "properties": {
+    "name":"McConnell AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.025638,37.90373 ]
+    },
+    "properties": {
+    "name":"Camp Carlson Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.47395,36.58534 ]
+    },
+    "properties": {
+    "name":"Destiny Parks and Pavillion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.6186,32.5111 ]
+    },
+    "properties": {
+    "name":"Barksdale AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0378,29.9502 ]
+    },
+    "properties": {
+    "name":"Magnolia Shade RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0208,29.8201 ]
+    },
+    "properties": {
+    "name":"Aviation Arbor RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.576,31.266 ]
+    },
+    "properties": {
+    "name":"Toledo Bend Recreation Site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.303804,31.452675 ]
+    },
+    "properties": {
+    "name":"Twin Lakes Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.2822,44.9533 ]
+    },
+    "properties": {
+    "name":"Great Pond Outdoor Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.8822,38.7849 ]
+    },
+    "properties": {
+    "name":"Joint Base Andrews NAF FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.47205,38.98984 ]
+    },
+    "properties": {
+    "name":"Annapolis FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7307,39.0951 ]
+    },
+    "properties": {
+    "name":"Camp Meade RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.384037,38.289 ]
+    },
+    "properties": {
+    "name":"Goose Creek Campgrounds"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.2803,39.4076 ]
+    },
+    "properties": {
+    "name":"Skippers Point Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.4675,38.344 ]
+    },
+    "properties": {
+    "name":"Solomons Island Navy Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.40683,38.30428 ]
+    },
+    "properties": {
+    "name":"West Basin Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.70632,42.16142 ]
+    },
+    "properties": {
+    "name":"Fourth Cliff Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.28013,42.47309 ]
+    },
+    "properties": {
+    "name":"Hanscom AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.5542,42.1896 ]
+    },
+    "properties": {
+    "name":"Westover ARB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.776324,44.633715 ]
+    },
+    "properties": {
+    "name":"Camp Grayling Trailer Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.82021,42.62792 ]
+    },
+    "properties": {
+    "name":"Five Flag Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.95578,30.40788 ]
+    },
+    "properties": {
+    "name":"Keesler AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.209397,31.207644 ]
+    },
+    "properties": {
+    "name":"Lake Walker Family Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.110194,30.377753 ]
+    },
+    "properties": {
+    "name":"Shields RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.6078,38.0906 ]
+    },
+    "properties": {
+    "name":"Lake of the Ozarks Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.205041,47.500659 ]
+    },
+    "properties": {
+    "name":"Gateway FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.8798,41.11248 ]
+    },
+    "properties": {
+    "name":"Offutt AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.721236,39.426884 ]
+    },
+    "properties": {
+    "name":"Fallon RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.053,36.2492 ]
+    },
+    "properties": {
+    "name":"Desert Eagle RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6218,42.9477 ]
+    },
+    "properties": {
+    "name":"New Boston Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.15742,40.26417 ]
+    },
+    "properties": {
+    "name":"Earle Deer Run RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.61063,40.0106 ]
+    },
+    "properties": {
+    "name":"Willow Pond Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.5257,40.9654 ]
+    },
+    "properties": {
+    "name":"Lake Denmark Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.8908,39.0269 ]
+    },
+    "properties": {
+    "name":"Lake Laurie Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.04232,40.12827 ]
+    },
+    "properties": {
+    "name":"NJ National Guard Training Center RV Sites"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.07258,32.8308 ]
+    },
+    "properties": {
+    "name":"Holloman AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.5404,35.05545 ]
+    },
+    "properties": {
+    "name":"Kirtland AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.4913,32.3774 ]
+    },
+    "properties": {
+    "name":"Volunteer Park Travel Campsite"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.75312,44.03388 ]
+    },
+    "properties": {
+    "name":"Remington Park RV Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0267,41.3777 ]
+    },
+    "properties": {
+    "name":"Round Pond Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9098,34.9 ]
+    },
+    "properties": {
+    "name":"Cherry Point MCCS Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.17933,36.26966 ]
+    },
+    "properties": {
+    "name":"Elizabeth City Lodging"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.914415,33.981303 ]
+    },
+    "properties": {
+    "name":"Fort Fisher Air Force Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4286,34.64983 ]
+    },
+    "properties": {
+    "name":"New River MCAS Marina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.26837,34.57182 ]
+    },
+    "properties": {
+    "name":"Onslow Beach Campsites and Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.96707,35.36049 ]
+    },
+    "properties": {
+    "name":"Seymour Johnson AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.92194,35.13611 ]
+    },
+    "properties": {
+    "name":"Smith Lake Army RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.378,47.968538 ]
+    },
+    "properties": {
+    "name":"Grand Forks AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.34242,48.425437 ]
+    },
+    "properties": {
+    "name":"Minot AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.052898,39.837136 ]
+    },
+    "properties": {
+    "name":"Wright-Patterson AFB Bass Lake FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.9365,46.1203 ]
+    },
+    "properties": {
+    "name":"Camp Rilea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.748761,42.164 ]
+    },
+    "properties": {
+    "name":"Kingsley Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2952,41.5675 ]
+    },
+    "properties": {
+    "name":"Carr Point Recreation Facilities"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0565,32.9088 ]
+    },
+    "properties": {
+    "name":"JB Charleston Lowcountry FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.4548,33.9654 ]
+    },
+    "properties": {
+    "name":"Falcon's Nest FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.98395,32.977558 ]
+    },
+    "properties": {
+    "name":"Foster Creek RV Park and Villas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.828403,34.007222 ]
+    },
+    "properties": {
+    "name":"Weston Lake Recreation Area and RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.987284,33.256684 ]
+    },
+    "properties": {
+    "name":"Short Stay Joint Base Charleston"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.72924,34.38295 ]
+    },
+    "properties": {
+    "name":"Wateree Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.069483,44.143115 ]
+    },
+    "properties": {
+    "name":"Ellsworth AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2904,34.653 ]
+    },
+    "properties": {
+    "name":"Altus AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.19611,35.66915 ]
+    },
+    "properties": {
+    "name":"Blackhawk RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.515,34.719768 ]
+    },
+    "properties": {
+    "name":"Lake Elmer Thomas Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4,34.68154 ]
+    },
+    "properties": {
+    "name":"Medicine Creek RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.865179,34.838626 ]
+    },
+    "properties": {
+    "name":"Murphys Meadow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3991,35.40665 ]
+    },
+    "properties": {
+    "name":"Tinker AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.0675,35.3242 ]
+    },
+    "properties": {
+    "name":"Arnold AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.86471,35.3296 ]
+    },
+    "properties": {
+    "name":"Midway RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.853435,35.366966 ]
+    },
+    "properties": {
+    "name":"Navy Lake Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5439,31.1362 ]
+    },
+    "properties": {
+    "name":"Belton Lake Outdoor Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.434839,29.333962 ]
+    },
+    "properties": {
+    "name":"Brooks City-Base FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.26607,33.3821 ]
+    },
+    "properties": {
+    "name":"Elliott Lake Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7245,28.1138 ]
+    },
+    "properties": {
+    "name":"Escondido Ranch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.44305,31.84068 ]
+    },
+    "properties": {
+    "name":"Fort Bliss RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.219311,29.889613 ]
+    },
+    "properties": {
+    "name":"Joint Base San Antonio Recreation Park at Canyon Lake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.419347,29.465003 ]
+    },
+    "properties": {
+    "name":"Joint Base San Antonio RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.486747,31.377311 ]
+    },
+    "properties": {
+    "name":"Goodfellow AFB Recreation Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.6143,29.39985 ]
+    },
+    "properties": {
+    "name":"Lackland AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.7831,29.352 ]
+    },
+    "properties": {
+    "name":"Laughlin AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.821,27.499 ]
+    },
+    "properties": {
+    "name":"Nasking Recreation FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.2158,29.8826 ]
+    },
+    "properties": {
+    "name":"Joint Base San Antonio Canyon Lake Recreation Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.898841,33.879938 ]
+    },
+    "properties": {
+    "name":"Sheppard AFB Recreation Annex at Lake Texoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.2557,27.6939 ]
+    },
+    "properties": {
+    "name":"Shields Park NAS Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.0381,29.4728 ]
+    },
+    "properties": {
+    "name":"Southwinds Marina on Lake Amistad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.838587,31.117428 ]
+    },
+    "properties": {
+    "name":"West Fort Hood Travel Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.771563,40.914064 ]
+    },
+    "properties": {
+    "name":"Carter Creek Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.97643,41.104917 ]
+    },
+    "properties": {
+    "name":"Hill AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.3333,40.496027 ]
+    },
+    "properties": {
+    "name":"Oquirrh Hills RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.43085,37.09232 ]
+    },
+    "properties": {
+    "name":"Bethel Recreation Area - Park and FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.00653,36.9274 ]
+    },
+    "properties": {
+    "name":"Fort Story JEB RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.61015,37.29751 ]
+    },
+    "properties": {
+    "name":"Kings Creek RV Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.33422,38.090764 ]
+    },
+    "properties": {
+    "name":"Champs Camp RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.595,37.1609 ]
+    },
+    "properties": {
+    "name":"Fort Eustis Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.16119,36.9094 ]
+    },
+    "properties": {
+    "name":"Little Creek MWR RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.45935,38.5254 ]
+    },
+    "properties": {
+    "name":"Lunga Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.02616,36.79607 ]
+    },
+    "properties": {
+    "name":"Ocean Pines RV Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "name":"Pickett RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9556,36.7718 ]
+    },
+    "properties": {
+    "name":"Sea Mist RV Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.2562,36.5632 ]
+    },
+    "properties": {
+    "name":"Stewart Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.301217,37.014753 ]
+    },
+    "properties": {
+    "name":"The Colonies Travel Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.4815,37.2204 ]
+    },
+    "properties": {
+    "name":"Yorktown Coast Guard Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5732,47.1184 ]
+    },
+    "properties": {
+    "name":"Camp Murray Beach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.69338,47.51414 ]
+    },
+    "properties": {
+    "name":"Clear Lake Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.688,48.337 ]
+    },
+    "properties": {
+    "name":"Cliffside RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.664431,47.62367 ]
+    },
+    "properties": {
+    "name":"Fairchild AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5849,47.10907 ]
+    },
+    "properties": {
+    "name":"Fort Lewis Travel Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.469334,47.120368 ]
+    },
+    "properties": {
+    "name":"Holiday Park FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.942593,48.221267 ]
+    },
+    "properties": {
+    "name":"Jim Creek Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.2067,47.216 ]
+    },
+    "properties": {
+    "name":"Pacific Beach Resort and Conference Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.698,48.322 ]
+    },
+    "properties": {
+    "name":"Rocky Point RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.11722,46.88844 ]
+    },
+    "properties": {
+    "name":"Westport Recreation Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7047,44.0284 ]
+    },
+    "properties": {
+    "name":"Pine View Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.871,41.155 ]
+    },
+    "properties": {
+    "name":"F.E. Warren AFB Crow Creek FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.04614,41.54926 ]
+    },
+    "properties": {
+    "name":"Camp Perry Lodging and RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.812217,35.223904 ]
+    },
+    "properties": {
+    "name":"Pine View RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.35989,27.68845 ]
+    },
+    "properties": {
+    "name":"Avon Park Air Force Range Outdoor Recreation"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.3729,34.721 ]
+    },
+    "properties": {
+    "name":"Brewster Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.41,30.36552 ]
+    },
+    "properties": {
+    "name":"Osprey Cove RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.33,31.5293 ]
+    },
+    "properties": {
+    "name":"Garden Canyon RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.06,37.76 ]
+    },
+    "properties": {
+    "name":"Fort Leonard Wood Piney River Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.284722,34.830718 ]
+    },
+    "properties": {
+    "name":"Camp Robinson RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.511,34.72592 ]
+    },
+    "properties": {
+    "name":"Pine Canyon Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.51464,34.8025 ]
+    },
+    "properties": {
+    "name":"San Antonio Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.5521,40.00085 ]
+    },
+    "properties": {
+    "name":"Range 14 Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.298,38.547 ]
+    },
+    "properties": {
+    "name":"Sea Bee Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.255,33.37 ]
+    },
+    "properties": {
+    "name":"Leitner Lake Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.108,46.624 ]
+    },
+    "properties": {
+    "name":"Fort Harrison RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.639449,34.691909 ]
+    },
+    "properties": {
+    "name":"Redstone Arsenal MWR RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.2706,33.78732 ]
+    },
+    "properties": {
+    "name":"Clarks Hill Training Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.65424,43.97868 ]
+    },
+    "properties": {
+    "name":"Yellowstone Trailers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3583,34.47029 ]
+    },
+    "properties": {
+    "name":"Crazy Horse Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.11972,39.18417 ]
+    },
+    "properties": {
+    "name":"Lake Tahoe Coast Guard Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.11528,39.18472 ]
+    },
+    "properties": {
+    "name":"Lake Tahoe Condominiums"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.36722,46.09306 ]
+    },
+    "properties": {
+    "name":"DeParcq Woods"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "name":"South Lake Tahoe Cabins"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.07306,21.34194 ]
+    },
+    "properties": {
+    "name":"Barbers Point Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.74917,21.9775 ]
+    },
+    "properties": {
+    "name":"Barking Sands Beach Cottages"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.27472,19.43472 ]
+    },
+    "properties": {
+    "name":"Kilauea Military Camp Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.18969,21.44669 ]
+    },
+    "properties": {
+    "name":"Pililaau Army Recreation Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.01298,44.40335 ]
+    },
+    "properties": {
+    "name":"Gull Cottage at Prospect Harbor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.61389,41.66611 ]
+    },
+    "properties": {
+    "name":"Coast Guard Temporary Quarters"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.93799,41.41515 ]
+    },
+    "properties": {
+    "name":"Cuttyhunk Island Recreation Housing Facility"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.74611,41.35333 ]
+    },
+    "properties": {
+    "name":"Martha's Vineyard/Nantucket Vacation Houses"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.25417,44.69028 ]
+    },
+    "properties": {
+    "name":"Point Betsie Recreation Cottage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.70944,39.12889 ]
+    },
+    "properties": {
+    "name":"Townsend Inlet Recreation Facility"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.04028,36.92306 ]
+    },
+    "properties": {
+    "name":"Cape Henry Inn and Cottages"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.27384,38.57344 ]
+    },
+    "properties": {
+    "name":"Sugar Grove Cottages"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.50875,44.21328 ]
+    },
+    "properties": {
+    "name":"Rawley Point Cottage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.4325,44.89139 ]
+    },
+    "properties": {
+    "name":"Sherwood Point Cottage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7582,30.31863 ]
+    },
+    "properties": {
+    "name":"Camp Mabry Travel Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.34716,61.13333 ]
+    },
+    "properties": {
+    "name":"Valdez Military Recreation Site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.74112,48.04854 ]
+    },
+    "properties": {
+    "name":"Indian Island Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.2042,61.1385 ]
+    },
+    "properties": {
+    "name":"Valdez Glacier Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9631423,33.6206092 ]
+    },
+    "properties": {
+    "name":"Anniston Army Depot RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.080833,26.259167 ]
+    },
+    "properties": {
+    "name":"Recreation Cottages at Hillsboro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.69616,32.32743 ]
+    },
+    "properties": {
+    "name":"Parris Island RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.72,35.263 ]
+    },
+    "properties": {
+    "name":"Fort Irwin RV Site"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.251179,37.622247 ]
+    },
+    "properties": {
+    "name":"Krueger Recreation Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.575562,45.081828 ]
+    },
+    "properties": {
+    "name":"Alpena RV Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.755062,39.715553 ]
+    },
+    "properties": {
+    "name":"Buckley AFB FamCamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.447043,37.42548 ]
+    },
+    "properties": {
+    "name":"Richmond Family, Morale, Welfare and Recreation RV Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.331704,41.062958 ]
+    },
+    "properties": {
+    "name":"Camp Ashland Campground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.979002,35.192427 ]
+    },
+    "properties": {
+    "name":"Fort Bragg Clay Target Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.2062,32.68728 ]
+    },
+    "properties": {
+    "name":"North Island Beach Cottages"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.220634,32.725459 ]
+    },
+    "properties": {
+    "name":"San Diego Bay View Cottages"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.149956,38.679178 ]
+    },
+    "properties": {
+    "name":"Fort Belvoir Travel Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.902854,34.941902 ]
+    },
+    "properties": {
+    "name":"Pelican Point RV Park"
+    }
+  }
+]
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Campground Exploration</title>
+
+        <script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
+        
+        <link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
+        <link rel="stylesheet" href="css/entry.css">
+        
+    </head>
+    <body>
+        <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
+        <link
+        rel="stylesheet"
+        href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css"
+        type="text/css"
+        />
+        <div class="title-container">
+            <img src="img/cover.jpg">
+            <div class="title">
+                <span>CAMPGROUND GROUND</span>
+                <h2>FIND WHEREVER LEAD YOU.</h2>
+            </div>
+        </div>
+        <div class=panel-container>
+            <img id="van" src="img/van.png">
+            <div class = "formBlock">
+                <form id=form onsubmit="afterSearch();return false">
+                    <input type="text" name="start" class="input" id="start" placeholder="Choose day1 place">
+                    <input type="text" name="end" class="input" id="end" placeholder="Choose day2 place">
+                    <button type="submit">Let's Go</button>
+                </form>
+            </div>
+        </div>
+    
+    </body>
+    <script>
+        function test(){
+            console.log('exectued')
+        }
+    </script>
+    <script type="text/javascript" src="js/app.js"></script>
+</html>

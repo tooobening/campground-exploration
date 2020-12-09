@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+            <title></title>
+
+        <!--put your external stylesheet links here-->
+        <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
+        <link rel="stylesheet" href="css/test.css">
+        <!--[if IE<9]>
+            <link rel="stylesheet" href="css/style.ie.css">
+        <![endif]-->
+
+         <!--you can also place internal styles here;
+             place these within <style> tags-->
+        <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.min.js"></script>
+        <link 
+            rel="stylesheet"
+            href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.css"
+            type="text/css"
+        />
+        <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
+        <link
+        rel="stylesheet"
+        href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css"
+        type="text/css"
+        />
+        <!-- Promise polyfill script required to use Mapbox GL Geocoder in IE 11 -->
+        <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+        <script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
+        <style>
+            .geocoder {
+                position: absolute;
+                z-index: 1;
+                width: 80%;
+                left:65%;
+                top: 18px;
+            }
+            .mapboxgl-ctrl-geocoder {
+                position: absolute;
+                margin-left: 0px;
+                min-width: 10%;
+            }
+            
+        </style>
+    </head>
+
+    <body>
+        <!-- <h1>Campground exploration</h1> -->
+        <div id="map"></div>
+        <nav id="menu"></nav>
+        <!-- <div class = "formBlock">
+            <form id=form>
+                <input type="text" name="start" class="input" id="start" placeholder="Choose day 1 place">
+                <input type="text" name="end" class="input" id="end" placeholder="Choose day 2 place">
+                <button type="submit">Let's Go</button>
+            </form>
+        </div> -->
+<!--        
+        <div id="geocoder" class="geocoder"></div>
+        <div id="geocoder1" class="geocoder"></div>
+         -->
+        <script type="text/javascript" src="js/test.js"></script>
+    </body>
+</html>
