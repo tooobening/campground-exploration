@@ -1,0 +1,1 @@
+{id: "landcover", type: "fill", source: "composite", source-layer: "landcover", maxzoom: 7, …}id: "landcover"maxzoom: 7paint: {fill-color: "hsl(55, 1%, 20%)", fill-opacity: Array(7), fill-antialias: false}source: "composite"source-layer: "landcover"type: "fill"__proto__: Object

@@ -1,0 +1,281 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f7a90d23    ;
+    font-family: BENMO Fengyue Extra;
+    color: #3d3d3d;
+}
+#result{
+    position:absolute;
+    left:10px;
+    top:200px;
+    width:180px;
+    background-color: #ffffffb6;
+    padding: 0 10px;
+}
+h1 {
+    color:#f7aa0d;
+    margin:10px 15px;
+    font-size: 42px;
+    font-weight:bold;
+    letter-spacing: .15em;
+    z-index: 999;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px #ffd797;
+}
+h2{
+    font-size: 20pt;
+}
+h3{
+    font-size: 18pt;
+}
+p{
+    font-size: 18pt;
+    margin:5px 0px;
+}
+/* topic (<span> text) */
+.topic{
+    display: inline-block;
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top:20%;
+    color: #f7aa0d;
+    font-size: 32px;
+}
+i{
+    color: #f7aa0d;
+}
+
+/* mapboxgl-popup-content */
+.mapboxgl-popup-content {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+.google-maps-icon-container {
+    display: flex;
+    align-items:center;
+
+}
+
+/* menu for layer */
+#menu {
+    z-index: 1;
+    letter-spacing: 0.1em;
+    word-spacing: 0;
+    color: #FFFFFF;
+    text-decoration: none solid rgb(68, 68, 68);
+    text-transform: uppercase;
+}
+
+#menu a {
+font-size: 28px;
+display: block;
+padding: 5px 0;
+border-radius: 10px;
+text-decoration: none;
+text-align: center;
+margin: 10px 0;
+}
+    
+/* menu - np  */
+#menu a.active[id='National Park'] {
+    background-color: #578b2c96;
+    color:#ffffff;
+}
+
+#menu a[id='National Park']:hover {
+    background-color: #8dbc3b80;
+    color: #404040;
+}
+
+/* munu - nf */
+#menu a[id='National Forest']:hover {
+    background-color: #8dbc3b80;
+    color: #404040;
+}
+#menu a.active[id='National Forest']:hover {
+    background: #8dbc3b80;
+}   
+    
+#menu a.active[id='National Forest'] {
+    background-color: #636d456c;
+    color: #ffffff;
+}
+
+/* munu - places */
+#menu a[id='Place']:hover {
+background-color: #e8af87c4;
+color: #404040;
+}
+#menu a.active[id='Place']:hover {
+    background: #e8af87c4;
+}   
+
+#menu a.active[id='Place'] {
+background-color: #e426338c;
+color: #ffffff;
+}
+#menu {
+    z-index: 1;
+    letter-spacing: 0.1em;
+    word-spacing: 0;
+    color: #FFFFFF;
+    text-decoration: none solid rgb(68, 68, 68);
+    text-transform: uppercase;
+}
+
+#menu a {
+font-size: 28px;
+display: block;
+padding: 5px 0;
+border-radius: 10px;
+text-decoration: none;
+text-align: center;
+margin: 10px 0;
+}
+    
+/* menu - np  */
+#menu a.active[id='National Park'] {
+    background-color: #578b2c96;
+    color:#ffffff;
+}
+
+#menu a[id='National Park']:hover {
+    background-color: #8dbc3b80;
+    color: #404040;
+}
+
+/* munu - nf */
+#menu a[id='National Forest']:hover {
+    background-color: #8dbc3b80;
+    color: #404040;
+}
+#menu a.active[id='National Forest']:hover {
+    background: #8dbc3b80;
+}   
+    
+#menu a.active[id='National Forest'] {
+    background-color: #636d456c;
+    color: #ffffff;
+}
+
+/* munu - places */
+#menu a[id='Place']:hover {
+background-color: #e8af87c4;
+color: #404040;
+}
+#menu a.active[id='Place']:hover {
+    background: #e8af87c4;
+}   
+
+#menu a.active[id='Place'] {
+background-color: #e426338c;
+color: #ffffff;
+}
+
+
+
+/* menu for POI */
+#poi {
+    z-index: 1;
+    letter-spacing: 0.1em;
+    word-spacing: 0;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none solid rgb(68, 68, 68);
+    text-transform: uppercase;
+    justify-content: center;
+    align-items: center;
+}
+
+#poi a {
+    display: block;
+    width: 50%;
+    padding: 10px 0;
+    border-radius: 50%;
+    margin: 10px;
+    margin-left:30%;
+
+}
+#poi img{
+    height:48px
+}
+    
+/* menu - campsite  */
+#poi a.active[id='Campsite'],
+#poi a.active[id='Pip-campsite'] {
+    background-color: #f7aa0d;
+    color:#ffffff;
+}
+
+#poi a[id='Campsite']:hover,
+#poi a.active[id='Campsite']:hover,
+#poi a[id='Pip-campsite']:hover,
+#poi a.active[id='Pip-campsite']:hover
+{
+    background-color: #f7a90d80;
+    color: #ffffff;
+}
+
+   
+#poi a.active[id='Gas'],
+#poi a.active[id='Pip-gas']{
+    background-color: #9fc5d2;
+    color:#ffffff;
+}
+
+#poi a[id='Gas']:hover,
+#poi a.active[id='Gas']:hover,
+#poi a[id='Pip-gas']:hover,
+#poi a.active[id='Pip-gas']:hover{
+    background-color: #9fc5d27e;
+    color: #ffffff;
+}
+
+/* munu - Grocery */
+   
+#poi a.active[id='Grocery'],
+#poi a.active[id='Pip-grocery']{
+    background-color: #9fc5d2;
+    color:#ffffff;
+}
+
+#poi a[id='Grocery']:hover,
+#poi a.active[id='Grocery']:hover,
+#poi a[id='Pip-grocery']:hover,
+#poi a.active[id='Pip-grocery']:hover {
+    background-color: #9fc5d27e;
+    color: #ffffff;
+}
+
+/* munu - Sports */
+   
+#poi a.active[id='Sports'],
+#poi a.active[id='Pip-sports']{
+    background-color: #9fc5d2;
+    color:#ffffff;
+}
+
+#poi a[id='Sports']:hover,
+#poi a.active[id='Sports']:hover,
+#poi a[id='Pip-sports']:hover,
+#poi a.active[id='Pip-sports']:hover{
+    background-color: #9fc5d27e;
+    color: #ffffff;
+}
+
+
+
+/* form */
+input, button{
+    font-size: 24px;
+    font-family: BENMO Fengyue Extra;
+}
+#button{
+    background-color: rgba(240, 157, 49, 0.6);
+}
+
+button:hover{
+    border: 3px #9ba89a solid;
+}

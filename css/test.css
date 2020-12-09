@@ -1,0 +1,145 @@
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+
+/* title */
+h1 {
+    position: absolute;
+    margin-top: 0;
+    top: 0.3em;
+    left: 1em;
+    font-size: 2em;
+    font-family: Hawaii 5-0, sans-serif;
+    font-weight:bold;
+    letter-spacing: .1em;
+    padding: 10px 15px;
+    background-color: rgba(255, 255, 255, .5);
+    border: 1px solid grey;
+    border-radius: 3px;
+    z-index: 800;
+}
+/* mapboxgl-popup-content */
+.mapboxgl-popup-content {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+.google-maps-icon-container {
+    display: flex;
+    align-items:center;
+
+}
+
+/* menu */
+
+#menu {
+    background: #fff;
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+    right: 10px;
+    border-radius: 3px;
+    width: 150px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 0px;
+    word-spacing: 2px;
+    color: #FFFFFF;
+    font-weight: 700;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+}
+#menu a {
+font-size: 13px;
+color: #404040;
+display: block;
+margin: 0;
+padding: 0;
+padding: 10px;
+text-decoration: none;
+border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+text-align: center;
+}
+    
+#menu a:last-child {
+border: none;
+}
+/* menu - np  */
+#menu a[id='National Park']:hover {
+background-color: #8dbc3b80;
+color: #404040;
+}
+#menu a.active[id='National Park']:hover {
+    background: #8dbc3b80;
+}   
+
+#menu a.active[id='National Park'] {
+background-color: #578b2c96;
+color: #ffffff;
+}
+/* munu - nf */
+#menu a[id='National Forest']:hover {
+    background-color: #8dbc3b80;
+    color: #404040;
+    }
+    #menu a.active[id='National Forest']:hover {
+        background: #8dbc3b80;
+    }   
+    
+    #menu a.active[id='National Forest'] {
+    background-color: #636d456c;
+    color: #ffffff;
+    }
+
+/* munu - places */
+#menu a[id='Place']:hover {
+background-color: #e8af87c4;
+color: #404040;
+}
+#menu a.active[id='Place']:hover {
+    background: #e8af87c4;
+}   
+
+#menu a.active[id='Place'] {
+background-color: #e426338c;
+color: #ffffff;
+}
+
+/* form */
+.formBlock {
+    max-width: 300px;
+    background-color: #fff;
+    border: 3px solid #3d3d3d;
+    position: absolute;
+    top:80px;
+    left: 30px;
+    padding: 10px;
+    z-index: 999;
+    box-shadow: 0 1px 5px #404040b9;
+    border-radius: 5px;
+    width: 100%;
+}
+.input{
+    box-sizing: border-box;
+    padding:10px;
+    background-color: rgba(182, 55, 55, 0.115);
+    width:100%;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    border-radius: 3px; 
+    margin-bottom:10px;
+}
+#form {
+    padding:0;
+    margin:0;
+}
+
+.input:nth-child(2){ 
+    margin-bottom:30px; 
+} */
+
+/* button{
+    display:none
+}
