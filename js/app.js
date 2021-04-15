@@ -10,10 +10,10 @@ var map = new mapboxgl.Map({
 });
 
 //URL for Source data
-var campsiteURL ='https://raw.githubusercontent.com/tooobening/geog778/master/data/fed_campsites.geojson';
-var gasURL = 'https://raw.githubusercontent.com/tooobening/geog778/ee2989fb2ddad8fa16271ed65d8514a935c7a55f/data/gas_station.geojson';
-var groceryURL = 'https://raw.githubusercontent.com/tooobening/geog778/ee2989fb2ddad8fa16271ed65d8514a935c7a55f/data/grocery_store.geojson';
-var sportsURL = 'https://raw.githubusercontent.com/tooobening/geog778/ee2989fb2ddad8fa16271ed65d8514a935c7a55f/data/sporting_store.geojson';
+var campsiteURL ='https://raw.githubusercontent.com/tooobening/campground-exploration/main/data/fed_campsites.geojson';
+var gasURL = 'https://raw.githubusercontent.com/tooobening/campground-exploration/main/data/gas_station.geojson';
+var groceryURL = 'https://raw.githubusercontent.com/tooobening/campground-exploration/main/data/grocery_store.geojson';
+var sportsURL = 'https://raw.githubusercontent.com/tooobening/campground-exploration/main/data/sporting_store.geojson';
 //menu for POI
 var SourceIdArray = ['Campsite','Gas','Grocery','Sports'];
 //number of the result for POI
