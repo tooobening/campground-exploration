@@ -25,7 +25,7 @@ This map render a variety of layers: national parks, national forest, populated 
   Users firstly input the desired cities/natural areas for each day. The map then help draw a connecting route with optimization navigation API from @Mapbox
 - **overlayed data in the buffered zone**
   Alongside the optimized route, campgrounds with some useful POIs will also be showed in the 100-mile buffer zones, e.g. gas stations, grocery stores, and sporting goods stores, using geospatial analysis modules from @Turf.js (BooleanInPolygon()). 
-– **Trigger base layers**
+- **Trigger base layers**
   Base maps which created by @Mapbox Studio that allows customized geometries and labels on its original vector-tiled maps. In this project, the following datasets datasets are included: [national parks](https://public-nps.opendata.arcgis.com/datasets/nps-boundary-1?geometry=-144.334%2C-20.479%2C119.338%2C70.899), [national forest](https://hub.arcgis.com/datasets/3451bcca1dbc45168ed0b3f54c6098d3_0?geometry=-128.332%2C43.003%2C-113.512%2C45.750&orderBy=FORESTNAME) and [populated places](https://hub.arcgis.com/datasets/esri::usa-census-populated-places/data?geometry=-128.016%2C41.904%2C-113.196%2C44.701), retrieving from ArcGIS RESTful API.
 
 ## Example for HOW TO retrieve data using ArcGIS RESTful API:
