@@ -1,7 +1,7 @@
 # CAMPGROUND EXPLORATION
 ## Web GIS application
 
-![Image of Yaktocat](./images/gif.gif)
+![Image of Yaktocat](./images/gif/gif.gif)
 
 
 <center>
@@ -14,16 +14,6 @@
 
 A web tools for planning a two-day trip is an interactive map with UI/UX design. It including all the populated places, national parks and national forests in the Western U.S (9 states in total), with ability to navigate to Google Maps.
 This map render a variety of layers: national parks, national forest, populated places and points of interest (POI). Users are allowed to get optimized routes after setting the original place and the destination, and the result also show all the POIs surrounding these routes within 100-mile buffer zone.
-
-## How to use:
-### Step1: 
-Input Sacremento for day one & Death Valley for day two, click “let’s go”.
-
-### Step2: 
-Show the result (result should have the route).
-
-### Step3: 
-Click the two button randomly ( red circles ) and to let it switch btw visible/invisible on the map.
 
 ## Getting Started
 
