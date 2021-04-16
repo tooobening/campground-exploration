@@ -17,7 +17,7 @@ This application is based on JavaScript/CSS/HTML using open-source APIs and modu
 - [turf.js](https://turfjs.org/) - A JavaScript library for spatial analysis. It includes traditional spatial operations, helper functions for creating GeoJSON data, and data classification and statistics tools.
 
 ## About the project
-# Introduction
+### Introduction
 
 A web tool for planning a two-day trip is an interactive map with UI/UX design. It including all the populated places, national parks and national forests in the Western U.S (9 states in total), with ability to navigate to Google Maps.
 This map render a variety of layers: national parks, national forest, populated places and points of interest (POI). Users are allowed to get optimized routes after setting the original place and the destination, and the result also show all the POIs surrounding these routes within 100-mile buffer zone.
