@@ -40,7 +40,7 @@ This application is based on JavaScript/CSS/HTML using open-source APIs and modu
 
 `map.addSource('nps', { //source id`<br>
 `'type': 'geojson', `<br>
-` 'data': 'https://services1.arcgis.com/…' //your ArcGIS RESTful API`<br>
+` 'data': 'https://services1.arcgis.com/…' //your <b>ArcGIS RESTful API<b>`<br>
 ` });`
 
 #### Step3: Add a layer from map.addSource()
