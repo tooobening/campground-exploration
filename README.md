@@ -15,7 +15,7 @@ This map render a variety of layers: national parks, national forest, populated 
 This application is based on JavaScript/CSS/HTML using open-source APIs and modular engine written in JavaScript.
 <br>To clone the repository: `git clone https://github.com/tooobening/campground-exploration.git`
 
-## Built with?
+## Built with:
 
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) - A JavaScript library that uses WebGL to render interactive maps from vector tiles and Mapbox styles.
 - [ArcGIS REST API](https://developers.arcgis.com/arcgis-rest-js/) - A collection of JavaScript modules for accessing location services, ArcGIS Online and ArcGIS Enterprise REST APIs.
