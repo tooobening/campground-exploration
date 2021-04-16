@@ -144,7 +144,7 @@ function loadCampsiteLayer() {
         e.features[0].geometry.coordinates[1] +
         "," +
         e.features[0].geometry.coordinates[0] +
-        '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/geog778/master/img/google-maps-48.png" width="40" height="40"></img></a></div>';
+        '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/campground-exploration/main/img/google-maps-48.png" width="40" height="40"></img></a></div>';
       popupContent +=
         '<div><a target="_blank" href="https://www.google.com/maps/search/?api=1&query=' +
         e.features[0].geometry.coordinates[1] +
@@ -233,7 +233,7 @@ function loadGasLayer() {
         e.features[0].geometry.coordinates[1] +
         "," +
         e.features[0].geometry.coordinates[0] +
-        '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/geog778/master/img/google-maps-48.png" width="40" height="40"></img></a></div>';
+        '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/campground-exploration/main/img/google-maps-48.png" width="40" height="40"></img></a></div>';
       popupContent +=
         '<div><a target="_blank" href="https://www.google.com/maps/search/?api=1&query=' +
         e.features[0].geometry.coordinates[1] +
@@ -323,7 +323,7 @@ function loadGroceryLayer() {
         e.features[0].geometry.coordinates[1] +
         "," +
         e.features[0].geometry.coordinates[0] +
-        '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/geog778/master/img/google-maps-48.png" width="40" height="40"></img></a></div>';
+        '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/campground-exploration/main/img/google-maps-48.png" width="40" height="40"></img></a></div>';
       popupContent +=
         '<div><a target="_blank" href="https://www.google.com/maps/search/?api=1&query=' +
         e.features[0].geometry.coordinates[1] +
@@ -413,7 +413,7 @@ function loadSportsLayer() {
         e.features[0].geometry.coordinates[1] +
         "," +
         e.features[0].geometry.coordinates[0] +
-        '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/geog778/master/img/google-maps-48.png" width="40" height="40"></img></a></div>';
+        '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/campground-exploration/main/img/google-maps-48.png" width="40" height="40"></img></a></div>';
       popupContent +=
         '<div><a target="_blank" href="https://www.google.com/maps/search/?api=1&query=' +
         e.features[0].geometry.coordinates[1] +
@@ -833,7 +833,7 @@ function runDirection(ori, des) {
                   e.features[0].geometry.coordinates[1] +
                   "," +
                   e.features[0].geometry.coordinates[0] +
-                  '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/geog778/master/img/google-maps-48.png" width="40" height="40"></img></a></div>';
+                  '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/campground-exploration/main/img/google-maps-48.png" width="40" height="40"></img></a></div>';
                 popupContent +=
                   '<div><a target="_blank" href="https://www.google.com/maps/search/?api=1&query=' +
                   e.features[0].geometry.coordinates[1] +
@@ -963,7 +963,7 @@ function runDirection(ori, des) {
                   e.features[0].geometry.coordinates[1] +
                   "," +
                   e.features[0].geometry.coordinates[0] +
-                  '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/geog778/master/img/google-maps-48.png" width="40" height="40"></img></a></div>';
+                  '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/campground-exploration/main/img/google-maps-48.png" width="40" height="40"></img></a></div>';
                 popupContent +=
                   '<div><a target="_blank" href="https://www.google.com/maps/search/?api=1&query=' +
                   e.features[0].geometry.coordinates[1] +
@@ -1093,7 +1093,7 @@ function runDirection(ori, des) {
                   e.features[0].geometry.coordinates[1] +
                   "," +
                   e.features[0].geometry.coordinates[0] +
-                  '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/geog778/master/img/google-maps-48.png" width="40" height="40"></img></a></div>';
+                  '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/campground-exploration/main/img/google-maps-48.png" width="40" height="40"></img></a></div>';
                 popupContent +=
                   '<div><a target="_blank" href="https://www.google.com/maps/search/?api=1&query=' +
                   e.features[0].geometry.coordinates[1] +
@@ -1224,7 +1224,7 @@ function runDirection(ori, des) {
                   e.features[0].geometry.coordinates[1] +
                   "," +
                   e.features[0].geometry.coordinates[0] +
-                  '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/geog778/master/img/google-maps-48.png" width="40" height="40"></img></a></div>';
+                  '"><img border="0" alt="google maps" src="https://raw.githubusercontent.com/tooobening/campground-exploration/main/img/google-maps-48.png" width="40" height="40"></img></a></div>';
                 popupContent +=
                   '<div><a target="_blank" href="https://www.google.com/maps/search/?api=1&query=' +
                   e.features[0].geometry.coordinates[1] +
