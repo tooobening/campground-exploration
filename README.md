@@ -60,4 +60,4 @@ This is an open-source project, including usage of open-source web mapping APIs,
 
 ## Authors and Contact information
 
-Yu-Ning Liu, Master’s in GIS/Cartography at UW-Madison. For more contact information, check out the Github page [@tooobening](https://github.com/tooobening/) and Twitter [@tooobening](https://twitter.com/tooobening)
+Yu-Ning Liu, _Master’s in GIS/Cartography at UW-Madison_ For more contact information, check out the Github page [@tooobening](https://github.com/tooobening/) and Twitter [@tooobening](https://twitter.com/tooobening)
