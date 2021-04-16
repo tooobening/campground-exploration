@@ -38,7 +38,7 @@ This application is based on JavaScript/CSS/HTML using open-source APIs and modu
 
 #### Step2: Add source from ArcGIS Restful API
 
-`map.addSource('nps', { //source id`<br>
+`map.addSource('nps', { // create a source id`<br>
 `'type': 'geojson', `<br>
 ` 'data': 'https://services1.arcgis.com/…' //your **ArcGIS RESTful API**`<br>
 ` });`
