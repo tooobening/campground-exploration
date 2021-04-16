@@ -13,6 +13,7 @@ This application is based on JavaScript/CSS/HTML using open-source APIs and modu
 ## Built with:
 
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) - A JavaScript library that uses WebGL to render interactive maps from vector tiles and Mapbox styles.
+- [Mapbox Direction API](https://docs.mapbox.com/api/navigation/directions/) - A single request for a traffic- and incident-aware route for driving, walking, or cycling.
 - [ArcGIS REST API](https://developers.arcgis.com/arcgis-rest-js/) - A collection of JavaScript modules for accessing location services, ArcGIS Online and ArcGIS Enterprise REST APIs.
 - [turf.js](https://turfjs.org/) - A JavaScript library for spatial analysis. It includes traditional spatial operations, helper functions for creating GeoJSON data, and data classification and statistics tools.
 
