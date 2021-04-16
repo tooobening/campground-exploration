@@ -5,12 +5,6 @@
 
 <h2 align="center"><a  href="https://tooobening.github.io/campground-exploration/">Live Demo</a></h2>
 
-<center>
-<h2>
-<a href=''>LIVE DEMO</a>
-<h2>
-</center>
-
 ## Introduction
 
 A web tools for planning a two-day trip is an interactive map with UI/UX design. It including all the populated places, national parks and national forests in the Western U.S (9 states in total), with ability to navigate to Google Maps.
