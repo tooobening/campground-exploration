@@ -3,10 +3,11 @@
 
 ![Image of Yaktocat](./img/gif/gif.gif)
 
+<h2 align="center"><a  href="https://tooobening.github.io/campground-exploration/">Live Demo</a></h2>
 
 <center>
 <h2>
-<a href='https://tooobening.github.io/campground-exploration/'>LIVE DEMO</a>
+<a href=''>LIVE DEMO</a>
 <h2>
 </center>
 
