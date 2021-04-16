@@ -1,5 +1,5 @@
 # CAMPGROUND EXPLORATION
-## Web GIS application
+a Web GIS application
 
 ![Image of Yaktocat](./img/gif/gif.gif)
 
